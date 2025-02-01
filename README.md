@@ -27,11 +27,11 @@ Kullanıcıların tüketim parametrelerini girerek günlük, aylık ve yıllık 
 
 1. Projeyi klonlayın veya indirin:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/makalin/maliyetmetre.git
    ```
 2. Proje dizinine gidin:
    ```bash
-   cd utility-calculator
+   cd maliyetmetre
    ```
 3. Gerekli bağımlılıkları yükleyin:
    ```bash
